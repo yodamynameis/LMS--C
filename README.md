@@ -1,2 +1,2 @@
-# LMS--Cpp
-Library Management System in C++
+# LMS--C
+Library Management System in C
